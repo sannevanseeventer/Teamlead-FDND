@@ -4,6 +4,8 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Team Lead
 
+## Opdracht
+Je leert hoe je 1e jaars studenten kan begeleiden bij het uitvoeren van leertaken. Je draagt bij aan de code en design reviews, bent vraagbaak en sparringspartner op vaste momenten tijdens de sprint.
 
 ## Licentie
 
